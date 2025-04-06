@@ -1,5 +1,7 @@
 ## 💻 Mash-Up iOS 15기 Module Study 공간입니다💻
 
+### 😁저희는 [Github Discussions](https://github.com/mash-up-kr/Mash-Up-15th-iOS-Module-Study/discussions)에 스터디 자료를 아카이빙 합니다 
+
 <br>
 
 ## 1️⃣ 스터디 목적
